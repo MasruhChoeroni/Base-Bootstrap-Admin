@@ -22,7 +22,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "EMSoftware\\BaseBootstrapAdmin\\BaseBootstrapAdminProvider"
+                "Mchoe\\BaseBootstrapAdmin\\BaseBootstrapAdminProvider"
             ],
             "views": [
                 "resources/views"
