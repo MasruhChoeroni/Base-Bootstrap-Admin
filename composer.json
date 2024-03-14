@@ -16,9 +16,9 @@
     ],
     "minimum-stability": "dev",
     "require": {},
-    "public": {
+    "public": [
         "assets"
-    },
+    ],
     "extra": {
         "laravel": {
             "views": [
