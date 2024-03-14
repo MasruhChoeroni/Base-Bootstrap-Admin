@@ -8,7 +8,7 @@ class BaseBootstrapAdminProvider extends ServiceProvider
 {
     public function boot()
     {
-        $this->loadViewsFrom(__DIR__.'/../resources/views', 'mchoe/base-bootstrap-admin');
+        $this->loadViewsFrom(__DIR__.'/../resources/views', 'base-bootstrap-admin');
     }
 
     public function register()
