@@ -1,0 +1,30 @@
+{
+    "name": "mchoe/base-bootstrap-admin",
+    "description": "\"Base admmin template menggunakan Bootstrap 5\"",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mchoe\\BaseBootstrapAdmin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Masruh Choeroni",
+            "email": "m.choeroni1988@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "public": {
+        "assets"
+    },
+    "extra": {
+        "laravel": {
+            "views": [
+                "resources/views"
+            ]
+        }
+    }
+
+}
